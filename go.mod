@@ -3,9 +3,6 @@ module app
 go 1.13
 
 require (
-	github.com/RedHatInsights/patchman-clients/inventory v0.14.0 // indirect
-	github.com/RedHatInsights/patchman-clients/rbac v0.14.0 // indirect
-	github.com/RedHatInsights/patchman-clients/vmaas v0.15.0 // indirect
 	github.com/aws/aws-sdk-go v1.38.51 // indirect
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
 	github.com/confluentinc/confluent-kafka-go v1.7.0 // indirect
@@ -34,17 +31,17 @@ require (
 	github.com/redhatinsights/platform-go-middlewares v0.8.1 // indirect
 	github.com/segmentio/kafka-go v0.4.16 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
-	github.com/stretchr/testify v1.6.1 // indirect
+	github.com/stretchr/testify v1.7.0 // indirect
 	github.com/swaggo/files v0.0.0-20190704085106-630677cd5c14 // indirect
 	github.com/swaggo/gin-swagger v1.2.0 // indirect
 	github.com/ugorji/go v1.2.6 // indirect
 	github.com/zsais/go-gin-prometheus v0.1.0 // indirect
-	golang.org/x/net v0.0.0-20210908191846-a5e095526f91 // indirect
-	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f // indirect
-	google.golang.org/appengine v1.6.7 // indirect
+	golang.org/x/net v0.0.0-20211104170005-ce137452f963 // indirect
+	golang.org/x/tools v0.0.0-20200825202427-b303f430e36d // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/confluentinc/confluent-kafka-go.v1 v1.7.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
+	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 	gorm.io/driver/postgres v1.0.5 // indirect
 	gorm.io/gorm v1.20.12 // indirect
 	modernc.org/strutil v1.1.0 // indirect

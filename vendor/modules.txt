@@ -2,12 +2,6 @@
 github.com/PuerkitoBio/purell
 # github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578
 github.com/PuerkitoBio/urlesc
-# github.com/RedHatInsights/patchman-clients/inventory v0.14.0
-github.com/RedHatInsights/patchman-clients/inventory
-# github.com/RedHatInsights/patchman-clients/rbac v0.14.0
-github.com/RedHatInsights/patchman-clients/rbac
-# github.com/RedHatInsights/patchman-clients/vmaas v0.15.0
-github.com/RedHatInsights/patchman-clients/vmaas
 # github.com/aws/aws-sdk-go v1.38.51
 github.com/aws/aws-sdk-go/aws
 github.com/aws/aws-sdk-go/aws/awserr
@@ -232,7 +226,7 @@ github.com/segmentio/kafka-go/sasl/plain
 github.com/segmentio/kafka-go/sasl/scram
 # github.com/sirupsen/logrus v1.8.1
 github.com/sirupsen/logrus
-# github.com/stretchr/testify v1.6.1
+# github.com/stretchr/testify v1.7.0
 github.com/stretchr/testify/assert
 # github.com/swaggo/files v0.0.0-20190704085106-630677cd5c14
 github.com/swaggo/files
@@ -251,15 +245,11 @@ github.com/zsais/go-gin-prometheus
 # golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
 golang.org/x/crypto/pbkdf2
 golang.org/x/crypto/sha3
-# golang.org/x/net v0.0.0-20210908191846-a5e095526f91
+# golang.org/x/net v0.0.0-20211104170005-ce137452f963
 golang.org/x/net/context
-golang.org/x/net/context/ctxhttp
 golang.org/x/net/idna
 golang.org/x/net/webdav
 golang.org/x/net/webdav/internal/xml
-# golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f
-golang.org/x/oauth2
-golang.org/x/oauth2/internal
 # golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
 golang.org/x/sys/cpu
 golang.org/x/sys/internal/unsafeheader
@@ -287,14 +277,6 @@ golang.org/x/tools/go/loader
 # golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 golang.org/x/xerrors
 golang.org/x/xerrors/internal
-# google.golang.org/appengine v1.6.7
-google.golang.org/appengine/internal
-google.golang.org/appengine/internal/base
-google.golang.org/appengine/internal/datastore
-google.golang.org/appengine/internal/log
-google.golang.org/appengine/internal/remote_api
-google.golang.org/appengine/internal/urlfetch
-google.golang.org/appengine/urlfetch
 # google.golang.org/protobuf v1.27.1
 google.golang.org/protobuf/encoding/prototext
 google.golang.org/protobuf/encoding/protowire
@@ -330,7 +312,7 @@ google.golang.org/protobuf/types/known/timestamppb
 gopkg.in/confluentinc/confluent-kafka-go.v1/kafka
 # gopkg.in/yaml.v2 v2.4.0
 gopkg.in/yaml.v2
-# gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
+# gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 gopkg.in/yaml.v3
 # gorm.io/driver/postgres v1.0.5
 gorm.io/driver/postgres
